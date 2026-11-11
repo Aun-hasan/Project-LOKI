@@ -73,13 +73,3 @@ Both stations use identical hardware:
 * **Threshold Adjustment:** The comparator ignores background room light by responding only to the intense laser brightness.
 * **Low-Side Switching:** The MOSFET bridges the 3.3V microcontroller logic and the 5V laser supply safely on the ground line.
 
----
-
-## 📁 Repository Structure
-
-```
-Project-Loki/
-├── README.md
-├── images/        # Expo layout and 3D model renders
-└── hardware/      # KiCad schematic (SVG + PDF)
-```
